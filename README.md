@@ -10,7 +10,6 @@
 ## 🌐 Connect with Me:
 
 <p align="center">
-<a href="https://bsky.app/profile/Hamzaishappy786"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF"></a>
 <a href="https://facebook.com/MuhammadHamza"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <a href="https://instagram.com/hamxa.nadeem.786"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://linkedin.com/in/MuhammadHamza"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -43,23 +42,23 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hamzaishappy786&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.sigma-five.vercel.app/api?username=Hamzaishappy786&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzaishappy786&theme=dark&hide_border=false"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaishappy786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img src="https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=Hamzaishappy786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hamzaishappy786&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+<img src="https://github-profile-trophy.sigma-five.vercel.app/?username=Hamzaishappy786&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 
 ---
 
 ### 🔝 Top Contributed Repo:
 <p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Hamzaishappy786&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<img src="https://github-contributor-stats.sigma-five.vercel.app/api?username=Hamzaishappy786&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
