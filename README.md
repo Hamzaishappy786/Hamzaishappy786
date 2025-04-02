@@ -13,7 +13,7 @@
 <a href="https://facebook.com/MuhammadHamza"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <a href="https://instagram.com/hamxa.nadeem.786"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://linkedin.com/in/MuhammadHamza"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://medium.com/@MuhammadHamza"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+<a href="https://medium.com/@hn374919"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 <a href="https://pinterest.com/MuhammadHamza"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white"></a>
 <a href="https://quora.com/profile/MuhammadHamza"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"></a>
 <a href="https://reddit.com/user/HamzaNadeemgg786"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
@@ -66,3 +66,4 @@
 [![](https://visitcount.itsvg.in/api?id=Hamzaishappy786&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaishappy786&layout=compact)
