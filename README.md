@@ -42,23 +42,23 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-<img src="https://github-readme-stats.sigma-five.vercel.app/api?username=Hamzaishappy786&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hamzaishappy786&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzaishappy786&theme=dark&hide_border=false"/>
-<img src="https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=Hamzaishappy786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaishappy786&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies:
 <p align="center">
-<img src="https://github-profile-trophy.sigma-five.vercel.app/?username=Hamzaishappy786&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Hamzaishappy786&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 
 ---
 
 ### 🔝 Top Contributed Repo:
 <p align="center">
-<img src="https://github-contributor-stats.sigma-five.vercel.app/api?username=Hamzaishappy786&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=Hamzaishappy786&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </p>
 
 ---
