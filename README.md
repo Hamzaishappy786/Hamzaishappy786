@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
       <br>C++
     </td>
     <td align="center" width="96">
