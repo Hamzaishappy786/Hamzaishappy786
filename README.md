@@ -1,11 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on Generative AI bots
+🔭 I’m currently working on Generative AI bots   
 👯 Looking to collaborate on local Pakistani Recommender systems and LLM's  
 🤝 Working with **Muhammad Abdul Hanan** and **Ahsan Iftikhar**  
 🌱 Learning **Applied Machine Learning & Neural Networks**  
 💬 Ask me about **NLP**
 
 ---
+
+<img src="https://raw.githubusercontent.com/Hamzaishappy786/Hamzaishappy786/main/intro.gif" alt="👋 Hi there! I'm Muhammad Hamza" title="👋 Hi, It's me, Muhammad Hamza"/>
 
 ## 🌐 Connect with Me:
 
