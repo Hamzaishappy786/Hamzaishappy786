@@ -71,6 +71,11 @@
 </table>
 -->
 
+<div align="center" style="background-color:#cce5ff; padding:10px; border-radius:10px;">
+<h2>💻 Tech Stack:</h2>
+</div>
+
+
 <div align="center">
 <!-- 1: JavaScript -->
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -110,6 +115,9 @@
 
 ---
 
+<div align="center" style="background-color:#cce5ff; padding:10px; border-radius:10px;">
+<h2>📱 Social Media:</h2>
+</div>
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="100">
