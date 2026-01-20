@@ -95,6 +95,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzaishappy786&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hafizqaim/hafizqaim/output/dist/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
 ---
 
 <div align="center">
