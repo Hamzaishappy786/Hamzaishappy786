@@ -60,6 +60,18 @@
 
 ---
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,opencv,sklearn,tensorflow,pytorch,selenium,c,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=anaconda,vscode,pycharm,androidstudio,vscode,github,git,docker" /><br> 
+</div>
+
+<br/>
+<hr/>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
