@@ -11,6 +11,7 @@
   <h2>Portfolio</h2>
   
   [![AI/ML Engineer Portfolio](https://img.shields.io/badge/AI%2FML%20Engineer-Portfolio-blueviolet?style=for-the-badge&logo=openai&logoColor=white)](https://muhammadhamzaportfolio.vercel.app/)
+  [![Software Engineer Portfolio](https://img.shields.io/badge/Associate%20Software%20Engineer-Portfolio-blue?style=for-the-badge&logo=github&logoColor=white)](https://hamza-se-portfolio.vercel.app/)
 </div>
 
 --- 
